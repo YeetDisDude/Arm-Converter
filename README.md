@@ -1,2 +1,28 @@
-# Arm-Converter
-Python-based Arm to Hex converter
+
+<h1 align="center">Arm Converter</h1>
+<p align="center">A Simple arm converter which supports Arm64 and Armv7</p>
+
+<p align="center">
+  <a href=""><img src="https://img.shields.io/github/downloads/YeetDisDude/Arm-Converter/total.svg"></a>
+  <a href=""><img src="https://img.shields.io/discord/1082866190097072158"></a>
+  <a href=""><img src="https://img.shields.io/github/v/release/YeetDisDude/Arm-Converter"></a>
+</p>
+<p align="center">
+  <a href=""><img src="https://img.shields.io/github/stars/YeetDisDude/Arm-Converter?style=social"></a>
+</p>
+  
+# Usage
+1. Download the Python File or the .exe from the releases tab
+
+The program will auto-install the required modules
+
+# Features
+- Can be used offline without internet
+- Converts arm instructions instantly
+
+  
+# Preview
+![Image1](/Assets/1.png)
+![Imagew](/Assets/w.png)
+
+[Discord](https://discord.gg/wnr9ME7enQ)
