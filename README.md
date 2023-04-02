@@ -3,9 +3,7 @@
 <p align="center">A Simple arm converter which supports Arm64 and Armv7</p>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/github/downloads/YeetDisDude/Arm-Converter/total.svg"></a>
   <a href=""><img src="https://img.shields.io/discord/1082866190097072158"></a>
-  <a href=""><img src="https://img.shields.io/github/v/release/YeetDisDude/Arm-Converter"></a>
 </p>
 <p align="center">
   <a href=""><img src="https://img.shields.io/github/stars/YeetDisDude/Arm-Converter?style=social"></a>
