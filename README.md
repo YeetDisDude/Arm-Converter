@@ -23,6 +23,6 @@ The program will auto-install the required modules
   
 # Preview
 ![Image1](/Assets/1.png)
-![Imagew](/Assets/w.png)
+![Image2](/Assets/2.png)
 
 [Discord](https://discord.gg/wnr9ME7enQ)
